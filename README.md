@@ -15,6 +15,7 @@ _Last updated: Feb 17, 2025_
 | Impact Academy                    | [AI Safety Careers Course](https://impactacademy.org/aiscc/)                                                          | N/A                                                            | Online                                   | N/A                                          |
 | Cambridge AI Safety Hub           | [Mentorship for Alignment Research Students](https://www.cambridgeaisafety.org/mars)                                  | Jan-April                                                      | Online (intro week at Cambridge, UK)     | Closed |
 | Cambridge AI Safety Hub           | [AI Safety Fast Track](https://www.cambridgeaisafety.org/ai-safety-fast-track)                                        | Feb–Mar 2025                                                   | In-person (Cambridge, UK)                | Early: Feb 14, General: Mar 7 |
+| Alignment Research Engineer Accelerator           | [ARENA](https://www.arena.education/)                                        | Apr-May 2025                                                   | In-person (LISA, UK)                | Feb 15, 2025 |
 
 ## Fellowships
 | Organization                      | Title                                                                                                   | Dates                                                                                           | Attendance Type                        | Application Deadline                         |
