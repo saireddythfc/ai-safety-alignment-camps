@@ -1,21 +1,23 @@
 # AI Safety Alignment Camps 
 An repository of 2025-2026 AI Safety and Alignment programs, camps, and fellowships. 
 ---
-I'm interested in AI Safety and Mech. Interp. - feel free to contact me from my [Github Page](https://github.com/kutay25)!
+I'm interested in AI Safety and Mech. Interp. - feel free to contact me at buyruk.kutay[at]gmail
 
 🙏 **This is intended as a community-driven repository. Everyone is encouraged to make additions to this list and keep it updated** 🙏
 
-_Last updated: Feb 17, 2025_
+If this list has been helpful, please let people know and share it around! _Last updated: Feb 26, 2025_
 
 ## Programs and Camps
-| Organization                      | Title                                                                                                   | Dates                                                                                           | Attendance Type                        | Application Deadline                         |
-| ----------------------------------| ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | -------------------------------------- | -------------------------------------------- |
-| ML Alignment & Theory Scholars    | [MATS Program](https://www.matsprogram.org/)                                                                          | June 16 - Aug 22                                               | In-person (Berkeley, CA)                 | N/A (Neel Nanda is open, Feb 28)                                  |
-| BlueDot Impact                    | [AI Alignment Course](https://aisafetyfundamentals.com/alignment/)                                                    | N/A                                                            | Online                                   | N/A, [2025 form is open](https://forms.bluedot.org/NliceQmUvMTfPDkVIYJy)                                  |
-| Impact Academy                    | [AI Safety Careers Course](https://impactacademy.org/aiscc/)                                                          | N/A                                                            | Online                                   | N/A                                          |
-| Cambridge AI Safety Hub           | [Mentorship for Alignment Research Students](https://www.cambridgeaisafety.org/mars)                                  | Jan-April                                                      | Online (intro week at Cambridge, UK)     | Closed |
-| Cambridge AI Safety Hub           | [AI Safety Fast Track](https://www.cambridgeaisafety.org/ai-safety-fast-track)                                        | Feb–Mar 2025                                                   | In-person (Cambridge, UK)                | Early: Feb 14, General: Mar 7 |
+| Organization                      | Title                                                                                                   | Dates                                                          | Attendance Type                          | Application Deadline                         |
+| ----------------------------------| ------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------| ---------------------------------------- | -------------------------------------------- |
+| ML Alignment & Theory Scholars    | [MATS Program](https://www.matsprogram.org/)                                                            | June 16 - Aug 22                                               | In-person (Berkeley, CA)                 | N/A (Neel Nanda is open, Feb 28)                                  |
+| BlueDot Impact                    | [AI Alignment Course](https://aisafetyfundamentals.com/alignment/)                                      | N/A                                                            | Online                                   | N/A, [2025 form is open](https://forms.bluedot.org/NliceQmUvMTfPDkVIYJy)                                  |
+| Impact Academy                    | [AI Safety Careers Course](https://impactacademy.org/aiscc/)                                            | N/A                                                            | Online                                   | N/A                                          |
+| Cambridge AI Safety Hub           | [Mentorship for Alignment Research Students](https://www.cambridgeaisafety.org/mars)                    | Jan-April                                                      | Online (intro week at Cambridge, UK)     | Closed |
+| Cambridge AI Safety Hub           | [AI Safety Fast Track](https://www.cambridgeaisafety.org/ai-safety-fast-track)                          | Feb–Mar 2025                                                   | In-person (Cambridge, UK)                | Early: Feb 14, General: Mar 7 |
 | Alignment Research Engineer Accelerator           | [ARENA](https://www.arena.education/)                                        | Apr-May 2025                                                   | In-person (LISA, UK)                | Feb 15, 2025 |
+| ML4Good           | [ML4Good Colombia](https://www.ml4good.org/courses/colombia-april-2025) | April 2025 | In-person (Colombia) | Feb 28, 2025 |
+
 
 ## Fellowships
 | Organization                      | Title                                                                                                   | Dates                                                                                           | Attendance Type                        | Application Deadline                         |
